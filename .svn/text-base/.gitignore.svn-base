@@ -1,0 +1,4 @@
+/bin/
+application.*
+.DS_Store
+preferences.txt
